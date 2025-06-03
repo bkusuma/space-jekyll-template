@@ -26,7 +26,6 @@ permalink: "/:title/"
 compress_html:
   clippings: all
   comments: all
-  endings: []
   profile: false
 links:
   section_1:
@@ -54,7 +53,7 @@ links:
     url: http://www.twitter.com/victorvoid
     key_trigger: t
   - title: search
-    url: ''
+    url: 
     key_trigger: s
 projects:
 - name: fluany
