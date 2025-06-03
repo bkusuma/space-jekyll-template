@@ -10,8 +10,8 @@ collections:
     output: true
 description: What could this all be about?
 baseurl: "/space-jekyll-template"
-url: http://victorvoid.github.io/space-jekyll-template/
-username: lorem ipsum
+url: https://bkusuma.github.io/space-jekyll-template/
+username: its bkusuma
 user_title: Lorem Ipsum - FrontEnd
 email: lorem.lorem@ipsum.com
 twitter_username: loremipsum
